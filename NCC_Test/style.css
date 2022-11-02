@@ -71,14 +71,7 @@
 #content .content1_heading{
     margin-bottom: 17px;
 }
-.content_table{
-    font-size: 13px;
-    padding: 10px;
-}
-.content_table th,td{
-    border: 1px solid black;
-    
-}
+
 .row {
     overflow: auto;
     margin: 15px auto;
